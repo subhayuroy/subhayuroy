@@ -1,4 +1,7 @@
-                        Hi, I'm **Subhayu Roy**.
+<h2 align="center">Hi, I'm <b>Subhayu Roy</b></h2>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=subhayuroy" alt="subhayuroy" /> </p>
+
 I'm a 🖥Computer Science Engineering(BTech CSE)💻 student in DIT University🏫
 I'll graduate🎓 in the year 2023.
 
