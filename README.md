@@ -25,4 +25,5 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 <a href="https://www.linkedin.com/in/subhayu-r-ba69ab188/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="subhayuroy" height="50" width="50" /></a>
 <a href="https://github.com/subhayuroy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="subhayuroy" height="50" width="50" /></a>
 <a href="https://twitter.com/SubhayuRoy2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="subhayuroy" height="50" width="50" /></a>
+<a href="https://google.dev/u/117797334200548812355" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="subhayuroy" height="50" width="50" /></a>
 </p>
