@@ -9,6 +9,9 @@ Aspires to be a Software Developer👨‍💻.
 Already knows Java, C, C++ and Python🐍. 
 Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hacking🐱‍💻.
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+
 📧How to _contact_ me?   **subhayu.roy2001@gmail.com**
 
 😎Check out my [LinkedIn profile](https://www.linkedin.com/in/subhayu-r-ba69ab188/)
