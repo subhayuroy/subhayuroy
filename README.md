@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="500"/>
 </p>
-<h1 align="center">Hi, I'm <b><i>Subhayu Roy</i></b></h1> :wave:
+<h1 align="center">Hi, I'm <b><i>Subhayu Roy</i></b> :wave: </h1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=subhayuroy" alt="subhayuroy" /> </p>
 
