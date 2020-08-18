@@ -3,11 +3,12 @@
 </p>
 <h2 align="center">Hi, I'm <b>Subhayu Roy</b></h2>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=subhayuroy" alt="subhayuroy" /> </p>
+
 <table>
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/subhayuroy/count.svg" alt="vistor count" height="50" /></td>
-    <td><p align="right"> <img src="https://komarev.com/ghpvc/?username=subhayuroy" alt="subhayuroy" /> </p></td>
   </tr>
 </table>
 
