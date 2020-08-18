@@ -1,7 +1,7 @@
 ![asf](https://user-images.githubusercontent.com/48166328/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif)
 <h2 align="center">Hi, I'm <b>Subhayu Roy</b></h2>
 
-<img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="500"/>
+<img align="center" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="500"/>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=subhayuroy" alt="subhayuroy" /> </p>
 
