@@ -16,7 +16,7 @@ I'm a 🖥Computer Science Engineering(BTech CSE)💻 student in DIT University�
 I'll graduate🎓 in the year 2023.
 
 Aspires to be a Software Developer👨‍💻. 
-Already knows ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396), ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396), ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C and ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)🐍. 
+Already knows ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396), ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396), ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) and ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)🐍, ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git), ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql), ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript). 
 Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hacking🐱‍💻.
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
