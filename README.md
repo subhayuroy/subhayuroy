@@ -24,7 +24,7 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 
 📧How to _contact_ me?   **subhayu.roy2001@gmail.com**
 
-😎Check out my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhayu-r-ba69ab188/)](https://www.linkedin.com/in/subhayu-r-ba69ab188/)
+😎Check out [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhayu-r-ba69ab188/)](https://www.linkedin.com/in/subhayu-r-ba69ab188/)
 
 📝I'm a **Patron** and **Writer** in [HacLabs.org](https://www.haclabs.org/)
 
