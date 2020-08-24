@@ -35,7 +35,23 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhayuroy&show_icons=true&theme=radical" alt="subhayuroy" />
 </p>
+<!--START_SECTION_PROFILE_VIEWS:readme-info-->
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+<!--START_CONTRIBUTIONS:readme-info-->
+<!--END_CONTRIBUTIONS:readme-info-->
+
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
 <p align="center">
 <a href="https://instagram.com/theshadowof_a_tear" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="theshadowof_a_tear" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/subhayu-r-ba69ab188/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="subhayuroy" height="50" width="50" /></a>
