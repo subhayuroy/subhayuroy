@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="500"/>
+  <img alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="300"/>
 </p>
 <h1 align="center">Hi, I'm <b><i>Subhayu Roy</i></b>:wave:</h1>
 
