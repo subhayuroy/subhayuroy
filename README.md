@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="300"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="300" height="280">
 </p>
 <h1 align="center">Hi, I'm <b><i>Subhayu Roy</i></b>:wave:</h1>
 
