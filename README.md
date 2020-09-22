@@ -16,7 +16,7 @@ I'm a 🖥Computer Science Engineering(BTech CSE)💻 student in DIT University�
 I'll graduate🎓 in the year 2023.
 
 Aspires to be a Software Developer👨‍💻. 
-Already knows ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396), ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396), ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C), ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)🐍, ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git), ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql), ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) and ![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=sas)
+Already knows ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396), ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396), ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C), ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)🐍, ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git), ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql), ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) and ![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=SAS)
 
 Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hacking🐱‍💻.
 
