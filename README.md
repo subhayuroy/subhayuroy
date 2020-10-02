@@ -32,19 +32,19 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 97 people were here!**
+**✨ 106 people were here!**
 
 
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 24.4 million Lines of Code ✍️**
+**From Hello World I have written 11.7 million Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 864 Contributions in year 2020**
+**🏆 878 Contributions in year 2020**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -54,10 +54,10 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 
 | | | | |
 | --- | --- | --- | --- |
-|🌞 Morning                |125 commits         |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.98%|
-|🌆 Daytime                |153 commits         |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|20.79%|
-|🌃 Evening                |261 commits         |![](https://via.placeholder.com/140x22/000000/000000?text=+)![](https://via.placeholder.com/260x22/b8b8b8/b8b8b8?=text=+)|35.46%|
-|🌙 Night                  |197 commits         |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|26.77%|
+|🌞 Morning                |126 commits         |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.96%|
+|🌆 Daytime                |153 commits         |![](https://via.placeholder.com/84x22/000000/000000?text=+)![](https://via.placeholder.com/316x22/b8b8b8/b8b8b8?=text=+)|20.59%|
+|🌃 Evening                |267 commits         |![](https://via.placeholder.com/144x22/000000/000000?text=+)![](https://via.placeholder.com/256x22/b8b8b8/b8b8b8?=text=+)|35.94%|
+|🌙 Night                  |197 commits         |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|26.51%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
@@ -67,13 +67,13 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 
 | | | | |
 | --- | --- | --- | --- |
-|Monday                   |134 commits         |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|18.11%|
-|Tuesday                  |137 commits         |![](https://via.placeholder.com/76x22/000000/000000?text=+)![](https://via.placeholder.com/324x22/b8b8b8/b8b8b8?=text=+)|18.51%|
-|Wednesday                |140 commits         |![](https://via.placeholder.com/76x22/000000/000000?text=+)![](https://via.placeholder.com/324x22/b8b8b8/b8b8b8?=text=+)|18.92%|
-|Thursday                 |93 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.57%|
-|Friday                   |48 commits          |![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|6.49%|
-|Saturday                 |72 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|9.73%|
-|Sunday                   |116 commits         |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.68%|
+|Monday                   |133 commits         |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|17.8%|
+|Tuesday                  |137 commits         |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|18.34%|
+|Wednesday                |140 commits         |![](https://via.placeholder.com/76x22/000000/000000?text=+)![](https://via.placeholder.com/324x22/b8b8b8/b8b8b8?=text=+)|18.74%|
+|Thursday                 |101 commits         |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.52%|
+|Friday                   |48 commits          |![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|6.43%|
+|Saturday                 |72 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|9.64%|
+|Sunday                   |116 commits         |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.53%|
 | | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
@@ -83,19 +83,19 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 
 | | | | |
 | --- | --- | --- | --- |
-|Python                   |28 repos|            ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|39.44%|
-|Jupyter Notebook         |11 repos|            ![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.49%|
-|CSS                      |7 repos|             ![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|9.86%|
-|C                        |6 repos|             ![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|8.45%|
-|Java                     |4 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.63%|
-|C++                      |4 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.63%|
-|HTML                     |4 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.63%|
-|JavaScript               |2 repos|             ![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|2.82%|
-|Shell                    |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.41%|
-|R                        |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.41%|
-|Kotlin                   |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.41%|
-|Go                       |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.41%|
-|SAS                      |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.41%|
+|Python                   |29 repos|            ![](https://via.placeholder.com/160x22/000000/000000?text=+)![](https://via.placeholder.com/240x22/b8b8b8/b8b8b8?=text=+)|40.28%|
+|Jupyter Notebook         |11 repos|            ![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.28%|
+|CSS                      |7 repos|             ![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|9.72%|
+|C                        |6 repos|             ![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|8.33%|
+|Java                     |4 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
+|C++                      |4 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
+|HTML                     |4 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
+|JavaScript               |2 repos|             ![](https://via.placeholder.com/12x22/000000/000000?text=+)![](https://via.placeholder.com/388x22/b8b8b8/b8b8b8?=text=+)|2.78%|
+|Shell                    |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.39%|
+|R                        |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.39%|
+|Kotlin                   |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.39%|
+|Go                       |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.39%|
+|SAS                      |1 repos|             ![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|1.39%|
 | | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->
