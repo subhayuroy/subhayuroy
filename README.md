@@ -112,7 +112,7 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 <p align="center">
 <a href="https://instagram.com/theshadowof_a_tear" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="theshadowof_a_tear" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/subhayu-r-ba69ab188/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="subhayuroy" height="40" width="40" /></a>
-<a href="https://subhayuroy2001.wixsite.com/personal-portfolio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="subhayuroy" height="40" width="40" /></a>
+<a href="https://subhayuroy2001.wixsite.com/personal-portfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="subhayuroy" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/lasttitan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="subhayuroy" height="40" width="40" /></a>
 <a href="https://twitter.com/SubhayuRoy2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="subhayuroy" height="40" width="40" /></a>
 <a href="https://google.dev/u/117797334200548812355" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="subhayuroy" height="40" width="40" /></a>
