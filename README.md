@@ -32,19 +32,19 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 3 people were here!**
+**✨ 4 people were here!**
 
 
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 8.7 million Lines of Code ✍️**
+**From Hello World I have written 4.7 million Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 276 Contributions in year 2021**
+**🏆 286 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -69,9 +69,9 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 | --- | --- | --- | --- |
 |Monday                   |147 commits         |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.3%|
 |Tuesday                  |132 commits         |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.63%|
-|Wednesday                |147 commits         |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.3%|
-|Thursday                 |111 commits         |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|12.31%|
-|Friday                   |80 commits          |![](https://via.placeholder.com/36x22/000000/000000?text=+)![](https://via.placeholder.com/364x22/b8b8b8/b8b8b8?=text=+)|8.87%|
+|Wednesday                |149 commits         |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.52%|
+|Thursday                 |110 commits         |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|12.2%|
+|Friday                   |79 commits          |![](https://via.placeholder.com/36x22/000000/000000?text=+)![](https://via.placeholder.com/364x22/b8b8b8/b8b8b8?=text=+)|8.76%|
 |Saturday                 |132 commits         |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.63%|
 |Sunday                   |153 commits         |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.96%|
 | | | | |
