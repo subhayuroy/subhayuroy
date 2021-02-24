@@ -44,7 +44,7 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 339 Contributions in year 2021**
+**🏆 341 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
