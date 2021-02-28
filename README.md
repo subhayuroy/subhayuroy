@@ -38,13 +38,13 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 4.8 million Lines of Code ✍️**
+**From Hello World I have written 8.8 million Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 349 Contributions in year 2021**
+**🏆 0 Contributions in year 2021**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
