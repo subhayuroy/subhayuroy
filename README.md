@@ -44,7 +44,7 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 56 Contributions in year 2022**
+**🏆 63 Contributions in year 2022**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -63,16 +63,16 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-📅 **I'm Most Productive on Thursdays** 
+📅 **I'm Most Productive on Saturdays** 
 
 | | | | |
 | --- | --- | --- | --- |
 |Monday                   |52 commits          |![](https://via.placeholder.com/44x22/000000/000000?text=+)![](https://via.placeholder.com/356x22/b8b8b8/b8b8b8?=text=+)|10.74%|
 |Tuesday                  |70 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|14.46%|
 |Wednesday                |66 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.64%|
-|Thursday                 |78 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.12%|
+|Thursday                 |77 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.91%|
 |Friday                   |67 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.84%|
-|Saturday                 |77 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.91%|
+|Saturday                 |78 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.12%|
 |Sunday                   |74 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|15.29%|
 | | | | |
 
