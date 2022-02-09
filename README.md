@@ -120,6 +120,8 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 <a href="https://google.dev/u/117797334200548812355" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="subhayuroy" height="40" width="40" /></a>
 </p>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saumyasingh048&" alt="subhayuroy"/></p>
+
 <a href="https://www.100daysofcode.com">
     <img
         src="https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com"
