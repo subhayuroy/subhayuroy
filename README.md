@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="center" alt="Coder GIF" width="300" height="300">
 </p>
-<h1 align="center">Hi, I'm <b><i>Subhayu Roy</i></b>:wave:</h1>
+<h1 align="center">Hi, I'm <b><i>Subhayu Roy</i></b><img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=subhayuroy" alt="subhayuroy" /> </p>
 
