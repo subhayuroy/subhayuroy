@@ -112,7 +112,7 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 </p>
 
 <p align="center">
-<a href="https://instagram.com/_5u8h4yu_r0y_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="theshadowof_a_tear" height="40" width="40" /></a>
+<a href="https://instagram.com/_5u8h4yu_r0y_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_subhayu_0410" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/subhayu-roy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="subhayuroy" height="40" width="40" /></a>
 <a href="https://subhayuroy2001.wixsite.com/personal-portfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="subhayuroy" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/lasttitan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="subhayuroy" height="40" width="40" /></a>
