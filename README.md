@@ -128,4 +128,4 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
     />
 </a>
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/hackcoderr.gif?z=6)](https://github4life.herokuapp.com/subhayuroy)
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=subhayuroy&theme=rogue" />
