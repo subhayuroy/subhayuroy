@@ -44,7 +44,7 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 4,007 Contributions in year 2022**
+**🏆 4,008 Contributions in year 2022**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
@@ -71,9 +71,9 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 |Tuesday                  |55 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.03%|
 |Wednesday                |55 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|16.03%|
 |Thursday                 |64 commits          |![](https://via.placeholder.com/76x22/000000/000000?text=+)![](https://via.placeholder.com/324x22/b8b8b8/b8b8b8?=text=+)|18.66%|
-|Friday                   |41 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.95%|
+|Friday                   |42 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|12.24%|
 |Saturday                 |34 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|9.91%|
-|Sunday                   |44 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.83%|
+|Sunday                   |43 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|12.54%|
 | | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
