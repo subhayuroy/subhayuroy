@@ -121,11 +121,3 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saumyasingh048&" alt="subhayuroy"/></p>
-
-<a href="https://www.100daysofcode.com">
-    <img
-        src="https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com"
-    />
-</a>
-
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=subhayuroy&theme=rogue" />
