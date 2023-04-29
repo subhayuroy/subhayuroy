@@ -56,8 +56,8 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 | --- | --- | --- | --- |
 |🌞 Morning                |35 commits          |![](https://via.placeholder.com/108x22/000000/000000?text=+)![](https://via.placeholder.com/292x22/b8b8b8/b8b8b8?=text=+)|26.52%|
 |🌆 Daytime                |32 commits          |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|24.24%|
-|🌃 Evening                |44 commits          |![](https://via.placeholder.com/132x22/000000/000000?text=+)![](https://via.placeholder.com/268x22/b8b8b8/b8b8b8?=text=+)|33.33%|
-|🌙 Night                  |21 commits          |![](https://via.placeholder.com/64x22/000000/000000?text=+)![](https://via.placeholder.com/336x22/b8b8b8/b8b8b8?=text=+)|15.91%|
+|🌃 Evening                |43 commits          |![](https://via.placeholder.com/132x22/000000/000000?text=+)![](https://via.placeholder.com/268x22/b8b8b8/b8b8b8?=text=+)|32.58%|
+|🌙 Night                  |22 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.67%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
@@ -68,12 +68,12 @@ Interested in Networking📝, Cloud computing☁, AI and ML🤖 and Ethical hack
 | | | | |
 | --- | --- | --- | --- |
 |Monday                   |1 commits           |![](https://via.placeholder.com/4x22/000000/000000?text=+)![](https://via.placeholder.com/396x22/b8b8b8/b8b8b8?=text=+)|0.76%|
-|Tuesday                  |7 commits           |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|5.3%|
+|Tuesday                  |6 commits           |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|4.55%|
 |Wednesday                |30 commits          |![](https://via.placeholder.com/92x22/000000/000000?text=+)![](https://via.placeholder.com/308x22/b8b8b8/b8b8b8?=text=+)|22.73%|
 |Thursday                 |25 commits          |![](https://via.placeholder.com/76x22/000000/000000?text=+)![](https://via.placeholder.com/324x22/b8b8b8/b8b8b8?=text=+)|18.94%|
 |Friday                   |23 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|17.42%|
 |Saturday                 |34 commits          |![](https://via.placeholder.com/104x22/000000/000000?text=+)![](https://via.placeholder.com/296x22/b8b8b8/b8b8b8?=text=+)|25.76%|
-|Sunday                   |12 commits          |![](https://via.placeholder.com/36x22/000000/000000?text=+)![](https://via.placeholder.com/364x22/b8b8b8/b8b8b8?=text=+)|9.09%|
+|Sunday                   |13 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|9.85%|
 | | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
